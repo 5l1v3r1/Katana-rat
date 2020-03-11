@@ -22,7 +22,7 @@ Test bot
 Then it's up to you
 
 
-##the functions
+the functions
 
 webcam - takes a picture from a webcam
 
