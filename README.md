@@ -1,22 +1,22 @@
 # Katana-rat
 Telegram  RAT
-#Free Telegram RAT
 
 
-#install modules from requirements.txt
 
-#install python 
+install modules from requirements.txt
 
-#Create a telegram bot via @BotFather
-#Replace chat_id and token
+install python 
 
-#If you do not understand something, then you can search it in Google
+Create a telegram bot via @BotFather
+Replace chat_id and token
 
-#When you have done everything use
+If you do not understand something, then you can search it in Google
+
+When you have done everything use
 
 $ python Katana-rat-github.py
 
-#Test bot
+Test bot
 
 
-#Then it's up to you
+Then it's up to you
