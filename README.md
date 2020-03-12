@@ -52,7 +52,7 @@ scanfile - return files
 
 startfileasad - start file as Admin
 
-save - save file [BETA]
+
 
 cd - goes to the directory
 
