@@ -26,6 +26,8 @@ the functions
 
 webcam - takes a picture from a webcam
 
+checkvm - check vm
+
 screen - takes a screenshot
 
 steal - stealer
@@ -52,6 +54,7 @@ scanfile - return files
 
 startfileasad - start file as Admin
 
+save - save file
 
 
 cd - goes to the directory
