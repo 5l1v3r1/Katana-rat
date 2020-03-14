@@ -24,6 +24,8 @@ Then it's up to you
 
 the functions
 
+audio - record auido
+
 webcam - takes a picture from a webcam
 
 checkvm - check vm
@@ -52,10 +54,11 @@ startfile - start file
 
 scanfile - return files
 
-
+message - message box
 
 save - save file
 
+killprocc - kill process
 
 cd - goes to the directory
 
