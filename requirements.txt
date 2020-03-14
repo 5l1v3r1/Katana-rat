@@ -1,5 +1,0 @@
-telebot
-hackpy
-bs4
-pyautogui
-PIL
