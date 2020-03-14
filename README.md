@@ -52,7 +52,7 @@ startfile - start file
 
 scanfile - return files
 
-startfileasad - start file as Admin
+
 
 save - save file
 
